@@ -5,6 +5,15 @@ public static void main(String args[]){
 
 	Paris p =new Paris();
 
+	
+
+
+}
+
+public void m1(){
+	
+	System.out.println("task 001");
+}
 
 }
 
